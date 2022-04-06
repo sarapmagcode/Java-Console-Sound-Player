@@ -44,7 +44,7 @@ public class Test {
 					clip.setMicrosecondPosition(0);
 					break;
 				
-				// quite
+				// quit
 				case "Q":
 					clip.close();
 					break;
